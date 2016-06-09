@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DemoHelloWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemoHelloWorld_jar</output-path>
+    <root id="archive" name="DemoHelloWorld.jar">
+      <element id="module-output" name="DemoHelloWorld" />
+      <element id="module-output" name="Module1" />
+      <element id="module-output" name="Module2" />
+      <element id="module-output" name="Module3" />
+      <element id="library" level="application" name="ch.qos.logback:logback-examples:1.1.5" />
+    </root>
+  </artifact>
+</component>

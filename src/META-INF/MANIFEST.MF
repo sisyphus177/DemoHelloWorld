@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: . lib/logback-classic-1.1.5.jar lib/logback-core-1.1.5.jar
+  lib/slf4j-api-1.7.16.jar
+Main-Class: com.demo.Main
+
